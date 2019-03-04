@@ -347,10 +347,11 @@ footer p {
   header li {
     display: inline-block;
     border-bottom: none;
+    padding-left: 40px;
   }
 
   header li a {
-    padding: 0 14px;
+    padding: 0px;
   }
 
   /*---- Section 1 ---- */
@@ -412,7 +413,7 @@ footer p {
   }
 
   #praktisk {
-    padding-bottom: 60px;
+    padding-bottom: 35px;
   }
 
   .text img {
@@ -512,6 +513,10 @@ footer p {
     transform: translate(-50%, -50%);
     margin: 0 auto;
     width: 60%;
+  }
+
+  #praktisk {
+    padding-bottom: 20px;
   }
 
   .text img {
