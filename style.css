@@ -231,7 +231,7 @@ header li a {
   margin: 5vh 10%;
 }
 
-.text h1 {
+.text h2 {
   display: inline-block;
   font-family: 'circularstd';
   font-size: 22px;
@@ -411,7 +411,15 @@ footer p {
     width: 70%;
   }
 
-  .text h1 {
+  #praktisk {
+    padding-bottom: 60px;
+  }
+
+  .text img {
+    height: 35px;
+  }
+
+  .text h2 {
     margin: 0 auto;
     font-size: 38px;
   }
@@ -510,7 +518,7 @@ footer p {
     height: 56px;
   }
 
-  .text h1 {
+  .text h2 {
     margin: 0 auto;
     font-size: 56px;
   }
